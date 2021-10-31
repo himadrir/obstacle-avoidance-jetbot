@@ -7,4 +7,4 @@ The bot was trained using 250 images to define blocked and not blocked environme
 As the robot determines if the path is blocked it takes a left turn else proceeds onto its path
 
 ***IMPROVEMNTS THAT CAN BE MADE***
-Whenver the bot detects a obstacle(blocked) it turns right, further improvement can be made to the logic of the bot avoiding the obstacle(determining if going left or right would be better rather than just turning left)
+Whenever the bot detects a obstacle(blocked) it turns right, further improvement can be made to the logic of the bot avoiding the obstacle(determining if going left or right would be better rather than just turning left)
