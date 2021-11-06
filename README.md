@@ -9,9 +9,11 @@ As the robot determines if the path is blocked it takes a left turn else proceed
 
 Video for demonstration of working
 
-[![Everything Is AWESOME](https://i9.ytimg.com/vi/Yk78EoYp0ks/mq1.jpg?sqp=CPyZmIwG&rs=AOn4CLBHQ2vCPU20SoaaMcHUwj2xTOovcw)](https://youtu.be/Yk78EoYp0ks "Jetbot Obstacle Avoidance")
+[![Jetbot Obstacle Avoidance](https://i9.ytimg.com/vi/Yk78EoYp0ks/mq1.jpg?sqp=CPyZmIwG&rs=AOn4CLBHQ2vCPU20SoaaMcHUwj2xTOovcw)](https://youtu.be/Yk78EoYp0ks "Jetbot Obstacle Avoidance")
 
-https://youtu.be/dQhTMA7hzCs
+[![Jetbot UI Working](https://i9.ytimg.com/vi/dQhTMA7hzCs/mq2.jpg?sqp=CNSemIwG&rs=AOn4CLAAke_2jljC6HJT6XOhntQTnvXaAg)](https://youtu.be/dQhTMA7hzCs "Jetbot UI Working")
+
+
 
 
 ***IMPROVEMNTS THAT CAN BE MADE***
