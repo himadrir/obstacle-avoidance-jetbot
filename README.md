@@ -10,6 +10,8 @@ As the robot determines if the path is blocked it takes a left turn else proceed
 Video for demonstration of working
 https://youtu.be/Yk78EoYp0ks
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 https://youtu.be/dQhTMA7hzCs
 
 
