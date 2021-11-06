@@ -1,4 +1,4 @@
-# obstactle-avoidance-jetbot
+# obstacle-avoidance-jetbot
 Demonstration of Jetbot to do obstacle avoidance
 Using Sparkfun Jetson Nano Robot kit 
 Using binary classification data is classified into blocked and not blocked
