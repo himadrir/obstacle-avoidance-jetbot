@@ -7,7 +7,7 @@ The bot was trained using 250 images to define blocked and not blocked environme
 As the robot determines if the path is blocked it takes a left turn else proceeds onto its path
 
 
-Video for demonstration of working( *Click on the thumbnail to watch!!!!*)
+Video for demonstration of working( **Click on the thumbnail to watch!!!!**)
 
 [![Jetbot Obstacle Avoidance](https://i9.ytimg.com/vi/Yk78EoYp0ks/mq1.jpg?sqp=CPyZmIwG&rs=AOn4CLBHQ2vCPU20SoaaMcHUwj2xTOovcw)](https://youtu.be/Yk78EoYp0ks "Jetbot Obstacle Avoidance")
 
