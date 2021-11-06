@@ -8,9 +8,8 @@ As the robot determines if the path is blocked it takes a left turn else proceed
 
 
 Video for demonstration of working
-https://youtu.be/Yk78EoYp0ks
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i9.ytimg.com/vi/Yk78EoYp0ks/mq1.jpg?sqp=CPyZmIwG&rs=AOn4CLBHQ2vCPU20SoaaMcHUwj2xTOovcw)](https://youtu.be/Yk78EoYp0ks "Jetbot Obstacle Avoidance")
 
 https://youtu.be/dQhTMA7hzCs
 
